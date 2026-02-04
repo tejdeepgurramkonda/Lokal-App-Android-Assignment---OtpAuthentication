@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679171091700",
+    "project_id": "otpauthentication-560ed",
+    "storage_bucket": "otpauthentication-560ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679171091700:android:03cfdcfb6bf1b9073202a1",
+        "android_client_info": {
+          "package_name": "com.example.otpauthentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSoFeXC7DjeHgj8PVt9rGL3Ev3kVQvoWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
