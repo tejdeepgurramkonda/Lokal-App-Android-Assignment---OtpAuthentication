@@ -45,6 +45,6 @@ A passwordless email + OTP demo built with Kotlin, Jetpack Compose, ViewModel, a
 Open in Android Studio and run on an emulator or device. Firebase Analytics uses the bundled `google-services.json`.
 
 ## GPT Usage
-- GPT assisted in outlining the structure, ViewModel/state shaping, Compose timer patterns, and writing this README.
+- GPT assisted in outlining the structure, ViewModel/state shaping, Compose timer patterns.
 - Implementation details (data structures, logging points, state wiring) were reviewed and understood before coding.
 
